@@ -9,13 +9,5 @@
 // MILESTONE 1:
 // Iniziamo implementando il programma senza alcuna estetica: usando esclusivamente due input e un bottone (non stilizzati), realizziamo le specifiche scritte sopra. La risposta finale (o output) sarà anch’essa da scrivere in console.
 
-//FASE DI INPUT DATI 
-//utente input km da percorrere
-const km = parseInt(document.getElementById("kminput"))
-//utente input età
-const eta = parseInt(document.getElementById("etainput"))
-//buttone di submit
-const submitBtn = document.getElementById("submitinput");
-
 
 
